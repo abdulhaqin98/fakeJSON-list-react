@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fakeJSON-list-react/static/css/main.c63e1677.chunk.css",
+    "main.js": "/fakeJSON-list-react/static/js/main.28f54a7d.chunk.js",
+    "main.js.map": "/fakeJSON-list-react/static/js/main.28f54a7d.chunk.js.map",
+    "runtime-main.js": "/fakeJSON-list-react/static/js/runtime-main.cdfcf985.js",
+    "runtime-main.js.map": "/fakeJSON-list-react/static/js/runtime-main.cdfcf985.js.map",
+    "static/js/2.c2ec428f.chunk.js": "/fakeJSON-list-react/static/js/2.c2ec428f.chunk.js",
+    "static/js/2.c2ec428f.chunk.js.map": "/fakeJSON-list-react/static/js/2.c2ec428f.chunk.js.map",
+    "index.html": "/fakeJSON-list-react/index.html",
+    "precache-manifest.cbe3427781b57a9a88377e817f307b34.js": "/fakeJSON-list-react/precache-manifest.cbe3427781b57a9a88377e817f307b34.js",
+    "service-worker.js": "/fakeJSON-list-react/service-worker.js",
+    "static/css/main.c63e1677.chunk.css.map": "/fakeJSON-list-react/static/css/main.c63e1677.chunk.css.map",
+    "static/js/2.c2ec428f.chunk.js.LICENSE.txt": "/fakeJSON-list-react/static/js/2.c2ec428f.chunk.js.LICENSE.txt",
+    "static/media/rainbow.png": "/fakeJSON-list-react/static/media/rainbow.6ecb82f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdfcf985.js",
+    "static/js/2.c2ec428f.chunk.js",
+    "static/css/main.c63e1677.chunk.css",
+    "static/js/main.28f54a7d.chunk.js"
+  ]
+}
